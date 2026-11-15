@@ -1,0 +1,8 @@
+
+public class Champion {
+
+    private String name;
+    private int life, attack, armor;
+
+    
+}
